@@ -48,7 +48,7 @@ estudiante=["Diana", "juan", "julio", "julie", "maxiel", "natalia"]
 # imprimir_bienvenida
 
 def imprimir_valor_ingresado(nombre)
-    p "usted ingreso #{nombre}"
+    "usted ingreso #{nombre}"
 end
 
 
